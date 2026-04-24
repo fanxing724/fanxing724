@@ -40,10 +40,4 @@
 ---
 
 ### 📊 GitHub 数据
-<p align="center">
-
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fanxing724&theme=tokyonight&hide_border=true" />
-</p>
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=fanxing724)
