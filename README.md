@@ -1,54 +1,47 @@
-<h1 align="center">你好 👋，我是番星</h1>
-<h3 align="center">一名热爱探索的科技爱好者</h3>
+<h1 align="center">你好，我是番星 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fanxing724&label=Profile%20Views&color=4294f5&style=flat-square" alt="profile views" />
+  <strong>热爱探索的科技爱好者，正在学习 C、Python 和 Java。</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fanxing724&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="trophy" />
+  <a href="https://xingbox.me">
+    <img src="https://img.shields.io/badge/Blog-xingbox.me-FF6B6B?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
   </a>
-</p>
-
----
-
-### ✨ 关于我
-
-- 🔭 心怀热爱，稳步前行
-- 🌱 目前正在学习 **C语言、Python、Java**
-- 💡 对新技术充满好奇，喜欢动手实践
-- 📝 偶尔在 [博客](https://xingbox.me) 记录学习心得
-
-### 🔗 个人博客
-
-<p align="center">
-  <a href="https://xingbox.me" target="_blank">
-    <img src="https://img.shields.io/badge/博客-xingbox.me-FF6B6B?style=for-the-badge&logo=rss&logoColor=white" alt="blog" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=fanxing724&label=Profile%20Views&color=4294f5&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### 🛠 技术栈
+### 关于我
+
+- 喜欢把想法做成可以运行的小项目。
+- 正在系统学习编程基础、算法思维和后端开发。
+- 关注 C、Python、Java，以及它们在工具开发和 Web 开发中的应用。
+- 偶尔会在 [xingbox.me](https://xingbox.me) 记录学习过程和实践心得。
+
+### 正在学习
+
+| 方向 | 内容 |
+| --- | --- |
+| C 语言 | 基础语法、指针、数据结构、底层理解 |
+| Python | 自动化脚本、Web 基础、数据处理 |
+| Java | 面向对象、集合框架、后端开发基础 |
+| Git/GitHub | 版本控制、项目管理、开源协作 |
+
+### 技术栈
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 </p>
 
----
-
-### 📊 GitHub 数据
+### GitHub 数据
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fanxing724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -58,13 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanxing724&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanxing724&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 贡献热力图
+### 贡献记录
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fanxing724&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
@@ -73,5 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4294f5&height=100&section=footer" />
+  <a href="https://xingbox.me">博客</a>
+  ·
+  <a href="https://github.com/fanxing724">GitHub</a>
 </p>
