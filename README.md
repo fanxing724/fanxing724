@@ -21,15 +21,9 @@
 #### `// SUBJECT PARAMETERS`
 
 ```
-SUBJECT      范安星 / 番星
-ID           FAN-C137
-出厂日期     2007.02.04
-常驻坐标     江西 · 吉安
 运行模式     LOW POWER / IDLE
 认知引擎     AI ASSISTED
 思考协议     外包给 AI
-性格         内向内敛
-充能需求     8-10H 休眠周期
 状态         FUNCTIONAL
 ```
 
@@ -57,7 +51,7 @@ ID           FAN-C137
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fanxing724&label=PORTAL%20ACCESSES&color=00ff41&style=for-the-badge)
+![Portal Accesses](https://komarev.com/ghpvc/?username=fanxing724&label=PORTAL%20ACCESSES&color=00ff41&style=for-the-badge)
 
 <br><br>
 
