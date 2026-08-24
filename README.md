@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-  ╔══════════════════════════════════════════════╗
+  ╔═════════════════════════════════════════════╗
   ║          DIMENSION C-137                    ║
   ║       EXPERIMENT SUBJECT FILE               ║
   ╚══════════════════════════════════════════════╝
@@ -38,7 +38,7 @@
 
 #### `// PRIMARY PROTOCOL`
 
-> 让 AI 解决问题。避免重复造脑。
+> 詩 AI 解决问题。避免重复造脑。
 
 ---
 
@@ -61,4 +61,15 @@
 
 <sub>BACKGROUND PROCESS: 摸鱼 — PID 404 — CPU 3%</sub>
 
+</div>
+
+---
+
+### 📊 GitHub 数据面板
+
+<div align="center">
+  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/stats?username=fanxing724&theme=catppuccin&show_icons=true" />
+  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/languages?username=fanxing724&theme=catppuccin&layout=pie" />
+  <br/>
+  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/activity?username=fanxing724&theme=catppuccin" />
 </div>
