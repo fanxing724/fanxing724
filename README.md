@@ -1,13 +1,15 @@
 <div align="center">
 
 ```
-  ╔═════════════════════════════════════════════╗
-  ║          DIMENSION C-137                    ║
-  ║       EXPERIMENT SUBJECT FILE               ║
-  ╚══════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════╗
+  ║            DIMENSION C-137            ║
+  ║        EXPERIMENT SUBJECT FILE        ║
+  ╚═══════════════════════════════════════╝
 ```
 
 ### `SUBJECT ID: FAN-C137`
+
+`Wubba Lubba Dub Dub`
 
 </div>
 
@@ -38,7 +40,43 @@
 
 #### `// PRIMARY PROTOCOL`
 
-> 詩 AI 解决问题。避免重复造脑。
+> 让 AI 解决问题。避免重复造脑。
+
+---
+
+#### `// DATA PANEL`
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github.xingbox.de5.net/stats?username=fanxing724&theme=light&show_icons=true">
+        <img alt="GitHub 统计" src="https://github.xingbox.de5.net/stats?username=fanxing724&theme=catppuccin&show_icons=true" width="100%">
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github.xingbox.de5.net/activity?username=fanxing724&theme=light">
+        <img alt="最近活跃" src="https://github.xingbox.de5.net/activity?username=fanxing724&theme=catppuccin" width="100%">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github.xingbox.de5.net/languages?username=fanxing724&theme=light&layout=pie">
+        <img alt="编程语言" src="https://github.xingbox.de5.net/languages?username=fanxing724&theme=catppuccin&layout=pie" width="460">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+#### `// CODE ARSENAL`
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.xingbox.de5.net/repos?username=fanxing724&theme=light">
+  <img alt="精选仓库" src="https://github.xingbox.de5.net/repos?username=fanxing724&theme=catppuccin" width="100%">
+</picture>
 
 ---
 
@@ -57,19 +95,6 @@
 
 > 宇宙没有KPI，活着就不算宕机。
 
-`Wubba Lubba Dub Dub`
-
 <sub>BACKGROUND PROCESS: 摸鱼 — PID 404 — CPU 3%</sub>
 
-</div>
-
----
-
-### 📊 GitHub 数据面板
-
-<div align="center">
-  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/stats?username=fanxing724&theme=catppuccin&show_icons=true" />
-  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/languages?username=fanxing724&theme=catppuccin&layout=pie" />
-  <br/>
-  <img src="https://new-make-ddernhw7mh0q.fanxing724.deno.net/activity?username=fanxing724&theme=catppuccin" />
 </div>
