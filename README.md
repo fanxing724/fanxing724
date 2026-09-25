@@ -47,6 +47,8 @@
 
 #### `// DATA PANEL`
 
+<img alt="badges" src="https://fanxing724.github.io/new-make/fanxing724/badge.svg">
+
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
@@ -59,6 +61,11 @@
   <tr>
     <td colspan="2" align="center">
       <img alt="编程语言" src="https://fanxing724.github.io/new-make/fanxing724/languages.svg" width="460">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="连续活跃" src="https://fanxing724.github.io/new-make/fanxing724/streak.svg" width="460">
     </td>
   </tr>
 </table>
