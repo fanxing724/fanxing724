@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### 嗨，我是繁星 👋
+### 嗨，我是番星 👋
 
-把好奇心变成项目，把重复的事交给自动化。
+代码交给 AI，想法留给自己。把「要不试试」变成能用的东西。
 
 **[个人站点](https://fanxing724.github.io)** &nbsp; · &nbsp; **[项目仓库](https://github.com/fanxing724?tab=repositories)** &nbsp; · &nbsp; **[卡片引擎](https://github.com/fanxing724/new-make)**
 
@@ -22,11 +22,11 @@
 
 ## 🛰️ 关于这颗星
 
-喜欢折腾 AI、网站和服务器，也喜欢让它们自己好好工作。
+代码主要由 AI 完成，想法来自自己的日常需求。这里记录陪伴、工具和设备探索，也记录边试边改的过程。
 
-- **AI 协作**：让 AI 帮忙解决问题，留点脑容量给新想法。
-- **部署与维护**：从能跑到稳定运行，把过程整理成可复用的流程。
-- **自动化实验**：少一点重复操作，多一点创造和摸鱼的时间。
+- **AI 与陪伴**：[Companion Core](https://github.com/fanxing724/qwenpaw-companion-core) 的日程、便签与纪念日，还有 [AI 剧场](https://github.com/fanxing724/edgeone-aichat) 里的角色和故事。
+- **实用小工具**：[Pulse](https://github.com/fanxing724/pulse) 给网站保活，[new-make](https://github.com/fanxing724/new-make) 给主页出图，让重复的事情自己跑。
+- **设备折腾**：在 [Termux 里用 Codex](https://github.com/fanxing724/codex-termux)，探索[自己的手环数据](https://github.com/fanxing724/honor-band-9)，记录 [MacBook 的修复过程](https://github.com/fanxing724/macbook9.1)。
 
 > 让 AI 解决问题。避免重复造脑。
 
